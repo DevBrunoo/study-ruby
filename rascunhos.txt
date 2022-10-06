@@ -1,0 +1,2 @@
+Para instalar ruby, verifique se voce ja installou homebrew e java em seu instrumento de trbalaho 
+
