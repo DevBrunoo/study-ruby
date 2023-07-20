@@ -1,1 +1,1 @@
-puts "Ola boso"cd sudo gem install rails
+puts "Ola boso" cd sudo gem install rails
